@@ -1,5 +1,11 @@
-# begginer_projects
+# Basic Calculator
+
 My beginner Projects in python
+
 Hi, my name is Ayush 
+
 This is my beginner project 01 
-Made a simple GUI calculator with tkinter in python
+
+language = Python
+
+packages = tkinter
